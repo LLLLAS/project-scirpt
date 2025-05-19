@@ -5,4 +5,4 @@ _G.InjectedGui = true
 getgenv().Key = "PremUmKey123"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kompotas/ActualLirp/refs/heads/main/Random2", true))()
 
-adstring(game:HttpGet("https://github.com/LLLLAS/project-scirpt/blob/main/project%20GG"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LLLLAS/project-scirpt/refs/heads/main/project%20GG"))()
